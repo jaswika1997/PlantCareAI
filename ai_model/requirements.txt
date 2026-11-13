@@ -1,0 +1,27 @@
+
+# Deep Learning
+torch
+torchvision
+timm
+
+# Image Processing
+opencv-python
+Pillow
+numpy
+
+# Data Processing
+pandas
+scikit-learn
+
+# Explainable AI
+grad-cam
+matplotlib
+
+# API communication
+fastapi
+uvicorn
+python-multipart
+
+# Utilities
+requests
+tqdm
